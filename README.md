@@ -10,7 +10,6 @@ I'm passionate about coding and database management, and I love tackling complex
 ## Certifications
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3BD7444A700B7FED531D64E42013533DB53C88C3DA5FF9817A7D6C9E5B012183&fbclid=IwAR1Pqe3pRDZJFgUbvKKlBcp0NZRMzEGT-SHfhjBF77tkeR312N0S0X0Lzco)
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=FDFC5253ECA39408E951221FB18F0C7E73FFD41DA18BE70AE4FD073673060EF4&fbclid=IwAR1H7ANucNLetqIMe-9HhmSqpa37bpQZS_aIV_Ur82b_OdYtVzIMG_exOpI)
-- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](Certification-Links/Infrastructure_Certification_Link.md)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/d86737818f584dc999d2bb07612d4918)
 
 ## Skill Sets
